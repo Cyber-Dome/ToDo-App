@@ -36,7 +36,8 @@ Manage your daily tasks with a simple and modern interface.
 ---
 
 ## 📸 Preview
-_Add your screenshot here_
+<img width="1920" height="964" alt="image" src="https://github.com/user-attachments/assets/517c9d38-48ff-422f-92e0-63056e5d621b" />
+
 
 ```md
 ![App Screenshot](screenshot.png)
